@@ -1,1 +1,2 @@
-new feature to jest zmiana na masterze
+new feature change on new feature
+
