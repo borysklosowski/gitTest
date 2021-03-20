@@ -1,0 +1,58 @@
+[33mcommit ebdd099b7733e5017a3a89cf90b4a5f1d13b740c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 8d32194 11f8069
+Author: borys.klosowski <klosowski.borys@gmail.com>
+Date:   Sun Mar 14 21:54:51 2021 +0100
+
+    Conflict resolved
+
+[33mcommit 11f806927d3ed4f2b50eab25d9d2d99e7716fc2b[m[33m ([m[1;32mnewFeature[m[33m)[m
+Author: borys.klosowski <klosowski.borys@gmail.com>
+Date:   Sun Mar 14 21:49:51 2021 +0100
+
+    Change on new feature
+
+[33mcommit 8d32194fcd1fb972c1095c23f1812ed52ed8e910[m
+Author: borys.klosowski <klosowski.borys@gmail.com>
+Date:   Sun Mar 14 21:47:41 2021 +0100
+
+    newFeature master change
+
+[33mcommit b52abeccb718567aa3a5b459b6ee9e5a314a8bea[m
+Author: borys.klosowski <klosowski.borys@gmail.com>
+Date:   Sun Mar 14 21:43:06 2021 +0100
+
+    Remove file 1 2 and 3
+
+[33mcommit a8b0d52cbbf6be76414045a2f8f107040e6d8501[m
+Author: borys.klosowski <klosowski.borys@gmail.com>
+Date:   Sun Mar 14 21:39:42 2021 +0100
+
+    Add new feature
+
+[33mcommit 07cd81b763fdf136e78b8bfedc64692f8e54e17e[m
+Author: borys.klosowski <klosowski.borys@gmail.com>
+Date:   Sun Mar 14 21:33:11 2021 +0100
+
+    Wycofanie commitu "Popraw plik4"
+    
+    This reverts commit cae244d5bc44f279814e2594bba8b4dc2d24a4a0.
+
+[33mcommit f1c31156f2c53bea5395422a06a84a20357e1ef0[m
+Author: borys.klosowski <klosowski.borys@gmail.com>
+Date:   Sun Mar 14 21:30:52 2021 +0100
+
+    Revert "Add three files"
+    
+    This reverts commit 77f02c7c39463b7aa7943872fa1c7a88923b529e.
+
+[33mcommit cae244d5bc44f279814e2594bba8b4dc2d24a4a0[m
+Author: borys.klosowski <klosowski.borys@gmail.com>
+Date:   Sun Mar 14 21:16:01 2021 +0100
+
+    Popraw plik4
+
+[33mcommit 77f02c7c39463b7aa7943872fa1c7a88923b529e[m
+Author: borysklosowski <klosowski.borys@gmail.com>
+Date:   Sun Mar 14 21:05:59 2021 +0100
+
+    Add three files
